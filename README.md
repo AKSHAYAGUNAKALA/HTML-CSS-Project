@@ -3,7 +3,8 @@
 (Simple restaurant website project created with html & css)
 
 TABLE OF CONTENT
- General info
+
+( General info
  Related Work
  Problem statement
- Objectives.
+ Objectives. )
